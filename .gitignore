@@ -192,3 +192,6 @@ scraper_cache/
 
 # WandB local sync data.
 wandb/
+
+# Misi local data
+.local_data/
